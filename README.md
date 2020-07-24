@@ -1,2 +1,1 @@
-# blogSoul.github.io
-homework
+# 끝장개발대회 참여 링크입니다.
